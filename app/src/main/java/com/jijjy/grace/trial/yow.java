@@ -6,10 +6,10 @@ import android.support.v7.app.AppCompatActivity;
 /**
  * Created by grace on 5/12/16.
  */
-public class z extends AppCompatActivity {
+public class yow extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.ye);
+        setContentView(R.layout.yow);
     }
 }
